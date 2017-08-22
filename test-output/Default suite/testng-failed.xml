@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.eleks.APITEST.TestOne.AppTestXML">
+        <methods>
+          <include name="TC_001_XML001"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.eleks.APITEST.TestOne.AppTestXML -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

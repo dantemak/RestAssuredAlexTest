@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "first_name": "Sebastian",
+    "last_name": "Eschweiler",
+    "email": "sebastian@codingthesmartway.com",
+    "companyId": "1"
+  },
+  {
+    "id": 2,
+    "first_name": "Brandon",
+    "last_name": "Palmer",
+    "email": "steve@codingthesmartway.com",
+    "companyId": "1"
+  },
+  {
+    "id": 3,
+    "first_name": "Ann",
+    "last_name": "Smith",
+    "email": "ann@codingthesmartway.com",
+    "companyId": "2"
+  },
+  {
+    "first_name": "Alex",
+    "last_name": "Mak",
+    "email": "alex@eleks.com",
+    "companyId": "1",
+    "id": 4
+  }
+]

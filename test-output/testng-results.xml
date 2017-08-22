@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1584" started-at="2017-08-22T14:23:49Z" finished-at="2017-08-22T14:23:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1584" started-at="2017-08-22T14:23:49Z" finished-at="2017-08-22T14:23:51Z">
+      <class name="com.eleks.APITEST.TestOne.AppTestJSON">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.eleks.APITEST.TestOne.AppTestJSON@548e7350]" name="setUp" is-config="true" duration-ms="307" started-at="2017-08-22T17:23:49Z" finished-at="2017-08-22T17:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC_001_Json_001()[pri:0, instance:com.eleks.APITEST.TestOne.AppTestJSON@548e7350]" name="TC_001_Json_001" duration-ms="780" started-at="2017-08-22T17:23:50Z" finished-at="2017-08-22T17:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001_Json_001 -->
+        <test-method status="PASS" signature="TC_002_Json_002()[pri:0, instance:com.eleks.APITEST.TestOne.AppTestJSON@548e7350]" name="TC_002_Json_002" duration-ms="1" started-at="2017-08-22T17:23:50Z" finished-at="2017-08-22T17:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002_Json_002 -->
+        <test-method status="PASS" signature="TC_003_Json_003()[pri:0, instance:com.eleks.APITEST.TestOne.AppTestJSON@548e7350]" name="TC_003_Json_003" duration-ms="477" started-at="2017-08-22T17:23:50Z" finished-at="2017-08-22T17:23:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_003_Json_003 -->
+      </class> <!-- com.eleks.APITEST.TestOne.AppTestJSON -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

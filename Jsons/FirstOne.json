@@ -1,0 +1,563 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kyivs'ka Street",
+               "short_name" : "Kyivs'ka St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ternopil",
+               "short_name" : "Ternopil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ternopil's'ka city council",
+               "short_name" : "Ternopil's'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ternopil's'ka oblast",
+               "short_name" : "Ternopil's'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kyivs'ka St, 4, Ternopil, Ternopil's'ka oblast, Ukraine",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.563604,
+               "lng" : 25.636469
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.56495298029149,
+                  "lng" : 25.6378179802915
+               },
+               "southwest" : {
+                  "lat" : 49.56225501970849,
+                  "lng" : 25.6351200197085
+               }
+            }
+         },
+         "place_id" : "ChIJK6N-9-AzMEcRamJRnImkHbw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "????????",
+               "short_name" : "????????",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "?????????",
+               "short_name" : "?????????",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "????????????? ?????????",
+               "short_name" : "????????????? ?????????",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "?????????????? ?????",
+               "short_name" : "?????????????? ?????",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "????????????? ???????",
+               "short_name" : "????????????? ???????",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "46003",
+               "short_name" : "46003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "????????, ?????????, ????????????? ???????, Ukraine, 46003",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.5659182,
+                  "lng" : 25.649643
+               },
+               "southwest" : {
+                  "lat" : 49.5532522,
+                  "lng" : 25.6217908
+               }
+            },
+            "location" : {
+               "lat" : 49.5585037,
+               "lng" : 25.6378109
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5659182,
+                  "lng" : 25.649643
+               },
+               "southwest" : {
+                  "lat" : 49.5532522,
+                  "lng" : 25.6217908
+               }
+            }
+         },
+         "place_id" : "ChIJ902mB-QzMEcR6_s_TNq5KZs",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ternopil",
+               "short_name" : "Ternopil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ternopil's'ka city council",
+               "short_name" : "Ternopil's'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ternopil's'ka oblast",
+               "short_name" : "Ternopil's'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "46003",
+               "short_name" : "46003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ternopil, Ternopil's'ka oblast, Ukraine, 46003",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.592608,
+                  "lng" : 25.655226
+               },
+               "southwest" : {
+                  "lat" : 49.5041011,
+                  "lng" : 25.540112
+               }
+            },
+            "location" : {
+               "lat" : 49.553517,
+               "lng" : 25.594767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.592608,
+                  "lng" : 25.655226
+               },
+               "southwest" : {
+                  "lat" : 49.5041011,
+                  "lng" : 25.540112
+               }
+            }
+         },
+         "place_id" : "ChIJdc6CS602MEcR6FSx7UekhMQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "46000",
+               "short_name" : "46000",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Ternopil",
+               "short_name" : "Ternopil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ternopil's'ka city council",
+               "short_name" : "Ternopil's'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ternopil's'ka oblast",
+               "short_name" : "Ternopil's'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ternopil, Ternopil's'ka oblast, Ukraine, 46000",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.592608,
+                  "lng" : 25.655226
+               },
+               "southwest" : {
+                  "lat" : 49.5041011,
+                  "lng" : 25.540112
+               }
+            },
+            "location" : {
+               "lat" : 49.553517,
+               "lng" : 25.594767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.592608,
+                  "lng" : 25.655226
+               },
+               "southwest" : {
+                  "lat" : 49.5041011,
+                  "lng" : 25.540112
+               }
+            }
+         },
+         "place_id" : "ChIJJfM1F7I2MEcRwRHQyJhSmws",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "46003",
+               "short_name" : "46003",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Ternopil",
+               "short_name" : "Ternopil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ternopil's'ka oblast",
+               "short_name" : "Ternopil's'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ternopil, Ternopil's'ka oblast, Ukraine, 46003",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.592608,
+                  "lng" : 25.7112301
+               },
+               "southwest" : {
+                  "lat" : 49.480008,
+                  "lng" : 25.409659
+               }
+            },
+            "location" : {
+               "lat" : 49.553517,
+               "lng" : 25.594767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.592608,
+                  "lng" : 25.655226
+               },
+               "southwest" : {
+                  "lat" : 49.5041011,
+                  "lng" : 25.5021721
+               }
+            }
+         },
+         "place_id" : "ChIJE6J_Zuk2MEcRhV5-20EbtbM",
+         "postcode_localities" : [ "Domamorych", "Kyp'yachka", "Pidhorodne", "Ternopil" ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ternopil's'ka city council",
+               "short_name" : "Ternopil's'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ternopil's'kyi district",
+               "short_name" : "Ternopil's'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ternopil's'ka oblast",
+               "short_name" : "Ternopil's'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ternopil's'ka city council, Ternopil's'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.597641,
+                  "lng" : 25.655226
+               },
+               "southwest" : {
+                  "lat" : 49.5041011,
+                  "lng" : 25.460152
+               }
+            },
+            "location" : {
+               "lat" : 49.553517,
+               "lng" : 25.594767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.597641,
+                  "lng" : 25.655226
+               },
+               "southwest" : {
+                  "lat" : 49.5041011,
+                  "lng" : 25.460152
+               }
+            }
+         },
+         "place_id" : "ChIJPRzC-Nk2MEcRYMSux87XWKs",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "46001",
+               "short_name" : "46001",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Ternopil",
+               "short_name" : "Ternopil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ternopil's'ka oblast",
+               "short_name" : "Ternopil's'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ternopil, Ternopil's'ka oblast, Ukraine, 46001",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.592608,
+                  "lng" : 25.754599
+               },
+               "southwest" : {
+                  "lat" : 49.40021890000001,
+                  "lng" : 25.540112
+               }
+            },
+            "location" : {
+               "lat" : 49.553517,
+               "lng" : 25.594767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.592608,
+                  "lng" : 25.655226
+               },
+               "southwest" : {
+                  "lat" : 49.5041011,
+                  "lng" : 25.540112
+               }
+            }
+         },
+         "place_id" : "ChIJOxvlFQI1MEcRqcaO0HcAM7U",
+         "postcode_localities" : [
+            "Dychkiv",
+            "Hrabovets'",
+            "Luchka",
+            "Proshova",
+            "Teofilivka",
+            "Ternopil"
+         ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "46002",
+               "short_name" : "46002",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Ternopil",
+               "short_name" : "Ternopil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ternopil's'ka oblast",
+               "short_name" : "Ternopil's'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ternopil, Ternopil's'ka oblast, Ukraine, 46002",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.659992,
+                  "lng" : 25.762055
+               },
+               "southwest" : {
+                  "lat" : 49.5041011,
+                  "lng" : 25.5128841
+               }
+            },
+            "location" : {
+               "lat" : 49.553517,
+               "lng" : 25.594767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.659992,
+                  "lng" : 25.762055
+               },
+               "southwest" : {
+                  "lat" : 49.5041011,
+                  "lng" : 25.5128841
+               }
+            }
+         },
+         "place_id" : "ChIJjYajfHkxMEcRhyljZMbS7wg",
+         "postcode_localities" : [
+            "Hai-Shevchenkivs'ki",
+            "Ivachiv Horishnii",
+            "Kurnyky",
+            "Smykivtsi",
+            "Stehnykivtsi",
+            "Stupky",
+            "Ternopil"
+         ],
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ternopil's'ka oblast",
+               "short_name" : "Ternopil's'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ternopil's'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.267215,
+                  "lng" : 26.4434051
+               },
+               "southwest" : {
+                  "lat" : 48.507534,
+                  "lng" : 24.718486
+               }
+            },
+            "location" : {
+               "lat" : 49.553517,
+               "lng" : 25.594767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.267215,
+                  "lng" : 26.4434051
+               },
+               "southwest" : {
+                  "lat" : 48.507534,
+                  "lng" : 24.718486
+               }
+            }
+         },
+         "place_id" : "ChIJZdKe1ltLMEcRUED2iIQGAQE",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.37958099999999,
+                  "lng" : 40.2285809
+               },
+               "southwest" : {
+                  "lat" : 44.2924,
+                  "lng" : 22.137159
+               }
+            },
+            "location" : {
+               "lat" : 48.379433,
+               "lng" : 31.1655799
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.37958099999999,
+                  "lng" : 40.2285809
+               },
+               "southwest" : {
+                  "lat" : 44.2924,
+                  "lng" : 22.137159
+               }
+            }
+         },
+         "place_id" : "ChIJjw5wVMHZ0UAREED2iIQGAQA",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
