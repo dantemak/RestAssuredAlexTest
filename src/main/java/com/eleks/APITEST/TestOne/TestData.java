@@ -10,12 +10,13 @@ public class TestData {
 	public static String FileName = "FirstOne";
 	public static String Employees  = "employees";
 	public static String Сompanies  = "companies";
+	public static String NewEmployee = PostReader("NewEmployee");
 	
 	
 		private static String PostReader(String FileName){
 		String output = null;
 		
-		try(FileReader file = new FileReader("Jsons/Requests" + FileName +  ".txt")) {
+		try(FileReader file = new FileReader("Jsons/Requests/" + FileName +  ".txt")) {
 			 output = file.toString();
 			 System.out.println("Successfully Read Json file");
 		} 

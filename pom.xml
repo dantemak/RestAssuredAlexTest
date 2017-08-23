@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.eleks.APITEST</groupId>
-	<artifactId>TestOne</artifactId>
+	<artifactId>RestAssuredAlexTest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>TestOne</name>
+	<name>RestAssuredAlexTest</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>

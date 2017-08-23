@@ -1,0 +1,6 @@
+{
+ "first_name": "Gurgut",
+    "last_name": "Wasin",
+    "email": "sebastian@codingthesmartway.com",
+    "companyId": "2"
+  }

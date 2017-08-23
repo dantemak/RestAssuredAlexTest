@@ -6,6 +6,8 @@ import java.net.URISyntaxException;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
+import io.restassured.http.ContentType;
+
 import static com.eleks.APITEST.TestOne.App.*;
 import static io.restassured.RestAssured.*;
 //import static io.restassured.matcher.RestAssuredMatchers.*;
@@ -38,5 +40,17 @@ public class AppTestJSON{
 	@Test
 	public void TC_003_Json_003(){
 		given().get("/companies").then().body("name", hasItems("Eleks"));
+	}
+	
+	@Test
+	public void TC_004_Json_004(){
+		given().body(TestData.NewEmployee).when().post(TestData.Employees).then().statusCode(201).log().all();
+	}
+	
+	@Test
+	public void TC_005_Json_005(){
+		given().delete("/employees/5");
+		System.out.println(given().get("/employees").asString());
+		
 	}
 }
