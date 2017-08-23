@@ -49,7 +49,7 @@ public class AppTestJSON{
 	
 	@Test
 	public void TC_005_Json_005(){
-		given().delete("/employees/5");
+		given().delete("/employees/5").then().assertThat();
 		System.out.println(given().get("/employees").asString());
 		
 	}
